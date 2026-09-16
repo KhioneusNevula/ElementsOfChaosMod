@@ -6,7 +6,7 @@ Different items, mobs, and blocks have different amounts of different Elements. 
 Typically, each Element has an effect on the item it is within, i.e. controls some physical property of this item (solid substances can be formed into ingots or tools; liquid, gas, and powder substances can be kept in bottles); an effect when the substance is formed into a block in the world (solid substances can be formed into all cuts of blocks; liquid substances can be poured as liquids; gas substances become floating liquid-like things; powder substances just become falling blocks that cannot be shaped); and an effect if the substance is consumed/splashed/administered via arrow.
 
 # List of Elements 
-* Agni, an Element that composes things which create fire or heat, like blaze rods, TNT, fire charges, but also things like flint, iron, and flint-and-steel.
+* Agni, an Element that composes things which create fire or heat, like blaze rods, TNT, fire charges, but also things like flint, iron, and flint-and-steel, as well as ender eyes.
 Agni allows substances to produce fire or even explosions when strong enough, and when ingested sets ingester on fire.
 * <ul><li>This is the element-of-combination; that is, it triggers elements to combine with each other.</li></ul>
 * Botah, an Element that exists in items which fly or are lighter than air; things like feathers have a tiny bit of it, and elytras have a lot.
@@ -75,11 +75,11 @@ Modificational elements:
 
 Dimensional essences:
 * Jwalamukhi, an Element found in netherrack and soul sand. If ingested, causes an explosion. When put in a block, the block burns infinitely; when put in a tool, it lights fires when used to attack. When combined with Mondol, allows travel to the Nether when heated.
-* Xex, an Element found in end stone, end crystals, and shulkers. If ingested, causes levitation. When put in a block, the block becomes very durable; when put in a tool, the tool teleports what it strikes; when ingested, causes teleportation. When combined with Mondol, allows travel to the End when heated.
+* Xex, an Element found in end stone, end crystals, shulkers, and end portals. If ingested, causes levitation. When put in a block, the block becomes very durable; when put in a tool, the tool teleports what it strikes; when ingested, causes teleportation. When combined with Mondol, allows travel to the End when heated.
 * Prithibi, an Element found in dirt and stone. If ingested, causes nausea. As a material, it behaves like stone. When combined with Mondol, allows travel to the overworld.
 
 Special elements:
-* Dolong, an Element found in eyes of ender and obsidian. Gives Dreaming when ingested. Also has dimension-traveling properties when combined with dimensional essences...?
+* Dolong, an Element found in eyes of ender. Gives Dreaming when ingested. Also has dimension-traveling properties when combined with dimensional essences...?
 * Xundor, an Element found in golden items and lapis lazuli. Causes substance to appear shiny like an enchanted item. Gives night vision when ingested. Also has enchantment-related properties ...?
 * Zibon, an Element found in silverfish, potions of infestation, and monster spawners. Cause blocks of substance to be automatically infested; when ingested, inflicts Infestation. Associated with the creation of living things from nothing...?
 * Jonmo, an Element found in beds, respawn anchors, echo shards, and in the blocks around the spawnpoint. Allows substances to be respawn points when used as blocks (though more is needed for the Nether, and even more for the End), and also teleports consumer to their own spawnpoint when ingested. 
@@ -96,5 +96,11 @@ Special elements:
 * Jyoti, a rare Element found in celestial objects like Nether Stars. ?
 * 
 
+Combined substances:
+* Dolong-Jwalamukhi: Found in obsidian. Has the property of allowing travel to the nether when heated.
+* Dolong-Xex: Has the property of allowing travel to the end when heated.
+* Dolong-Prithibi: Found in obsidian and bedrock. Has the property of allowing travel to the overworld when heated.
+
 # Elements in the world
-Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements combine hierarchically; a combination of two elements combines to form a complex element, with complex effects known as a **substances**. Elements on their own also act as substances. Some elements combine to form substances with unique effects; others form substances which have two independent effects. Some things require more energy to combine and some require less energy to combine. This largely depends on **Essential Quality**
+Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements combine hierarchically; a combination of two elements combines to form a complex element, with complex effects known as a **substances**. Elements on their own also act as substances. Some elements combine to form substances with unique new effects; others form substances which have two independent effects. Some things require more energy to combine and some require less energy to combine. This largely depends on **Essential Quality**, of which a random number are generated per world, and are named randomly; even though they are random, things which naturally occur together are hardcoded to be easier to combine than things that don't, and things which naturally occur together for items which are formed by brewing or smelting are harder to combine.
+
