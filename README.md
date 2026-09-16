@@ -76,6 +76,7 @@ Modificational elements:
 Dimensional essences:
 * Jwalamukhi, an Element found in netherrack and soul sand. If ingested, causes an explosion. When put in a block, the block burns infinitely; when put in a tool, it lights fires when used to attack. When combined with Mondol, allows travel to the Nether when heated.
 * Xex, an Element found in end stone, end crystals, and shulkers. If ingested, causes levitation. When put in a block, the block becomes very durable; when put in a tool, the tool teleports what it strikes; when ingested, causes teleportation. When combined with Mondol, allows travel to the End when heated.
+* Prithibi, an Element found in dirt and stone. If ingested, causes nausea. As a material, it behaves like stone. When combined with Mondol, allows travel to the overworld.
 
 Special elements:
 * Dolong, an Element found in eyes of ender and obsidian. Gives Dreaming when ingested. Also has dimension-traveling properties when combined with dimensional essences...?
@@ -96,4 +97,4 @@ Special elements:
 * 
 
 # Elements in the world
-Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements usually exist in a hierarchical structure; that is, their effect on something is controlled by the fact they combine in binary-branching trees to form complex substances. 
+Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements combine hierarchically; a combination of two elements combines to form a complex element, with complex effects known as a **substances**. Elements on their own also act as substances. Some elements combine to form substances with unique effects; others form substances which have two independent effects. Some things require more energy to combine and some require less energy to combine. This largely depends on **Essential Quality**
