@@ -18,8 +18,8 @@ Botah makes substances gaseous or even flow upward; when ingested it gives slow-
 Borun makes substances liquid.
 * Puhor, an Element that is found in light-emitting blocks like redstone lamps and glowstone, but also glow squids, and even spider eyes.
 Puhor allows substances to emit light. When ingested, makes ingester have the glowing effect.
-* Shakti, an Element that is found in mechanical objects, i.e. different kinds of pistons, and blaze powder.
-Shakti allows substances to push and move things when strengthened, and gives strength when ingested.
+* Xokti, an Element that is found in mechanical objects, i.e. different kinds of pistons, and blaze powder.
+Xokti allows substances to push and move things when strengthened, and gives strength when ingested.
 * Kathinatva, an Element found in metals; the more of this an object has, the higher durability it has. Only metals and stronger items have it, like diamond, obsidian, etc.
 Kathinatva makes substances solid and gives them durability when used as tools; makes them stronger against mining when used as building materials; gives resistance when ingested.
 * Hil, an Element found in rock and stone. Hil makes substances stronger against explosions when used as building materials, and as items. Also gives knockback resistance when ingested.
@@ -29,7 +29,7 @@ Kathinatva makes substances solid and gives them durability when used as tools; 
 * Sphotik, an Element found in sand, glass, and crystals, and potions of invisibility. Sphotik allows substances to be visually transparent and have transparent properties, as well as give invisibility when ingested.
 * Xo, an Element found in undead mobs. Causes substances to catch fire when exposed to sun. Allows substances to give hunger when ingested.
 * Tez, an Element found in all mobs considered living. Allows substances to give healing when ingested. 
-* Omrit, an Element found in Withers, Ender Dragons, ghast tears, ghasts, players, potions of healing, regeneration, etc. Allows substances to cause regeneration when ingested.
+* Notun, an Element found in Withers, Ender Dragons, ghast tears, ghasts, players, potions of healing, regeneration, etc. Allows substances to cause regeneration when ingested.
 * Bix, an Element found in poisonous items, pufferfish, and chicken. Allows substances to inflict poison when ingested. 
 * Nosto, an Element found in withering items and mobs. Allows substances to inflict wither when ingested.
 * Bozro, an Element found in copper, lightning rods, channeling items, etc. Allows substances to attract lightning bolts, charge creepers, and causes lightning damage when ingested.
@@ -39,8 +39,6 @@ Kathinatva makes substances solid and gives them durability when used as tools; 
 * Zangphai, an Element found in redstone items. Allows substances to conduct redstone power. Gives haste when ingested.
 * Naikya, an Element found in vexes. Allows substances to cause intangibility when ingested, and makes blocks formed of the substance intangible.
 * Tuponi, an Element found in beds. Allows blocks made with it to be slept in--albeit not respawned in unless Jonmo is also present--and causes instant bed-like sleep when ingested.
-* Jonmo, an Element found in beds, respawn anchors, echo shards, and in the blocks around the spawnpoint. Allows substances to be respawn points when used as blocks (though more is needed for the Nether, and even more for the End), and also teleports consumer to their own spawnpoint when ingested.
-* Punorjonom, an Element found in Totems of Undying. Allows substances to prevent next death when in inventory, or touching organisms.
 
 Nourishment elements that give properties when ingested:
 <ul>
@@ -80,12 +78,20 @@ Dimensional essences:
 * Xex, an Element found in end stone, end crystals, and shulkers. If ingested, causes levitation. When put in a block, the block becomes very durable; when put in a tool, the tool teleports what it strikes; when ingested, causes teleportation. When combined with Mondol, allows travel to the End when heated.
 
 Special elements:
-* Mondol, an Element found in eyes of ender and obsidian. Gives Dreaming when ingested. Also has dimension-traveling properties when combined with dimensional essences...?
+* Dolong, an Element found in eyes of ender and obsidian. Gives Dreaming when ingested. Also has dimension-traveling properties when combined with dimensional essences...?
 * Xundor, an Element found in golden items and lapis lazuli. Causes substance to appear shiny like an enchanted item. Gives night vision when ingested. Also has enchantment-related properties ...?
+* Zibon, an Element found in silverfish, potions of infestation, and monster spawners. Cause blocks of substance to be automatically infested; when ingested, inflicts Infestation. Associated with the creation of living things from nothing...?
+* Jonmo, an Element found in beds, respawn anchors, echo shards, and in the blocks around the spawnpoint. Allows substances to be respawn points when used as blocks (though more is needed for the Nether, and even more for the End), and also teleports consumer to their own spawnpoint when ingested. 
+* Omrit, an Element found in Totems of Undying. Allows substances to prevent next death when in inventory, or touching organisms.
+* Bandhoni, an Element found in Creakings and lodestones. When the substance is combined with something else, depending on what it is combined with, a different effect is established between two things. Blocks of substance can be connected to items of the substance with right click, and the items if ingested connect the ingester with the block.
+* <ul>
+  <li>If combined with Omrit, then the other entity will die if the block is broken, but be unkillable while it remains unbroken.</li>
+  <li>If combined with Gyan, then the other entity will always face the block.</li>
+</ul>
 * Bhaiggyo, an Element found in rabbit's feet. Causes luck effects at high amounts when ingested, makes objects crafted with it luckier somehow...?
 * Zatro, an Element found in ender pearls, endermen, and shulkers. Allows substances to cause teleportation when ingested. Used for teleportation ???
 * Tontro, an Element found in potions of weaving, cobwebs, and spiders in very low amounts. On its own, it gives the weaving effect. However, also maybe has other properties???
-* Gyan, an Element found in all things that generate or hold XP. Gyan allows substances to give XP, and has other properties ,,, ?
+* Gyan, an Element found in all things that generate or hold XP. Gyan allows substances to give XP, and can be combined with non-special substances to make their abilities able to be triggered by the individual who possesses them. 
 * Jyoti, a rare Element found in celestial objects like Nether Stars. ?
 * 
 
