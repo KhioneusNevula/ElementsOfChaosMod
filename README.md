@@ -8,7 +8,7 @@ Typically, each Element has an effect on the item it is within, i.e. controls so
 # List of Elements 
 * Agni, an Element that composes things which create fire or heat, like blaze rods, TNT, fire charges, but also things like flint, iron, and flint-and-steel, as well as ender eyes.
 Agni allows substances to produce fire or even explosions when strong enough, and when ingested sets ingester on fire.
-* <ul><li>This is the element-of-combination; that is, it triggers elements to combine with each other.</li></ul>
+* <ul><li>This is the element-of-combination; that is, it triggers elements to separate. Things with this element, if hot enough, will cause elements to separate. E.g. throwing a substance into a fire can cause its elemental structure to reorganize.</li></ul>
 * Botah, an Element that exists in items which fly or are lighter than air; things like feathers have a tiny bit of it, and elytras have a lot.
 Botah makes substances gaseous or even flow upward; when ingested it gives slow-falling properties ordinarily (the amount in a phantom membrane, when combined with Rox, or in an elytra), and at high amounts it gives floating properties (the amount in a shulker shell, combined with Rox).
 * Bizol, an Element that exists in slimy items and cobwebs. Gives substances slimeblock-like properties and cobweb-like properties. When ingested, gives oozing.
