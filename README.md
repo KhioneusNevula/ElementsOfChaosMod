@@ -80,6 +80,7 @@ Special elements:
   <li>If combined with Gyan, then the other entity will always face the block.</li>
   <li>If combined with Zatro, then the other entity will share inventory with this entity.</li>
 </ul>
+
 * Zatro, an Element found in ender pearls, endermen, and shulkers. Allows substances to cause teleportation when ingested. Used for teleportation, and is decreased by heat. When made into containers, the containers act like shulker boxes ???
 * Tontro, an Element found in potions of weaving, cobwebs, and spiders in very low amounts. On its own, it gives the weaving effect at higher heat. However, can be used in some way to force composed substances to re-combine?
 * Rokha, an Element found in heart of the sea which causes Anchoring when ingested (player can do anything for five seconds and then is teleported back to their start position afterward with the same health and effects they had then) and causes a stasis field when placed as a block, which stops random ticks in a one block radius around it and stops substances increasing/decreasing when heated in adjacent vats, as well as prevents explosions.
@@ -87,7 +88,7 @@ Special elements:
 * Jyoti, a rare Element found in celestial objects like Nether Stars. ????
 * 
 
-Combined substances:
+Multielements:
 * Zibon-Jonmo (Omrit): Found in Totems of Undying. Allows substances to prevent next death when in inventory, or touching organisms.
 * Dolong-Jwalamukhi (Norok): Found in obsidian. Has the property of allowing travel to the nether when heated.
 * Dolong-Xex (Rati): Has the property of allowing travel to the end when heated.
@@ -107,7 +108,7 @@ Combined substances:
 * \[Gyan-Tontro\]-Botah (Mon-botah, or Ura): Found in most flying or levitating mobs, allowing them to fly freely
 
 # Elements in the world
-Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements combine hierarchically; a combination of two elements combines to form a complex element, with complex effects known as a **substances**. Elements on their own also act as substances. Some elements combine to form substances with unique new effects; others form substances which have two independent effects. Some things require more energy to combine and some require less energy to combine. This largely depends on **Essential Quality**, of which a random number are generated per world, and are named randomly; even though they are random, things which naturally occur together are hardcoded to be easier to combine than things that don't, and things which naturally occur together in items which are formed by brewing or smelting are harder to combine.
+Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements combine hierarchically; a combination of two elements combines to form a complex element, with complex effects known as a **substances**, specifically **composite substances**. Elements on their own also act as substances, so the term "substance" is an umbrella for both elements and composite substances. Some elements combine to form substances with unique new effects (these are called **multielement substances** or just **multielements**); others form substances which have two independent effects. Some things require more energy to combine and some require less energy to combine. This largely depends on **Essential Quality**, of which a random number are generated per world, and are named randomly; even though they are random, things which naturally occur together are hardcoded to be easier to combine than things that don't, and things which naturally occur together in items which are formed by brewing or smelting are harder to combine.
 
 In order to separate out substances, heat must be applied. Furnaces and brewing stands are insufficient; however, special brewing stands can be crafted with netherrack known as **burner stands**, and a **glass vat** must be made to contain the substance inside. Heat causes some elements to begin decreasing slowly and some elements to increase, so redstone is needed to stop this from happening. When heated, the elements become a mixed fluid in the vat, and when they stop being heated they will cool down and re-bond; they do not always re-bond the way they were originally, but they are more likely to rebond with things that have closer essential qualities to them. 
 
