@@ -11,7 +11,6 @@ Agni allows substances to produce fire or even explosions when strong enough, an
 * <ul><li>This is the element-of-combination; that is, it triggers elements to combine with each other.</li></ul>
 * Botah, an Element that exists in items which fly or are lighter than air; things like feathers have a tiny bit of it, and elytras have a lot.
 Botah makes substances gaseous or even flow upward; when ingested it gives slow-falling properties ordinarily (the amount in a phantom membrane, when combined with Rox, or in an elytra), and at high amounts it gives floating properties (the amount in a shulker shell, combined with Rox).
-* Dhumuha, an Element that exists in rabbits feet and breeze-related items. Ordinarily gives jump boost, but also gives wind charging at high amounts. 
 * Bizol, an Element that exists in slimy items and cobwebs. Gives substances slimeblock-like properties and cobweb-like properties. When ingested, gives oozing.
 * Zolon, an Element composing things like wood, which catch fire easily, and fuel-type items. Zolon allows substances to generate energy for energy-type machines or furnaces at high amounts, and causes them to be flammable. When ingested, makes ingester more flammable. When heated and in high amounts, it will cause an explosion.
 * Borun, an Element that is found in water, various liquid things, and living beings.
@@ -26,18 +25,17 @@ Kathinatva makes substances solid and gives them durability when used as tools; 
 * Guri, an Element found in falling blocks. Guri allows substances to fall and appear as powders, and is decreased by heat.
 * Bhari, an Element in maces and anvils. Bhari allows substance to be heavy, i.e. cause damage when falling; it also allows substances to fall, like Guri. When ingested, gives ingester these heaviness properties.
 * Zunga, an Element in weapons of various kinds. Zunga allows substances to generally cause greater damage when used, and gives ingesters a thorn-like effect. 
-* Sphotik, an Element found in sand, glass, and crystals, and potions of invisibility. Sphotik allows substances to be visually transparent and have transparent properties, as well as give invisibility when ingested. Sphotik is increased by heat.
+* Sphotik, an Element found in sand, glass, and crystals, and potions of invisibility. Sphotik allows substances to be visually transparent and have transparent properties, as well as give invisibility when ingested; it also does not react with any substance. Sphotik is increased by heat.
 * Xo, an Element found in undead mobs. Causes substances to catch fire when exposed to sun. Allows substances to give hunger when ingested.
 * Tez, an Element found in all mobs considered living. Allows substances to give healing when ingested. 
 * Notun, an Element found in Withers, Ender Dragons, ghast tears, ghasts, players, potions of healing, regeneration, etc. Allows substances to cause regeneration when ingested.
 * Bix, an Element found in poisonous items, pufferfish, and chicken. Allows substances to inflict poison when ingested. 
-* Nosto, an Element found in withering items and mobs. Allows substances to inflict wither when ingested.
+* Nosto, an Element found in withering items and mobs. Allows substances to inflict wither when ingested and in high quantities causes progressive damage to blocks when in block form.
 * Bozro, an Element found in copper, lightning rods, channeling items, etc. Allows substances to attract lightning bolts, charge creepers, and causes lightning damage when ingested.
 * Gakhir, an Element found in milk. Allows substances to wipe away effects when ingested.
 * Boroph, an Element found in snow. Allows substances to freeze liquid and cause cold damage when ingested or touched; makes blocks of the substance slippery. Boroph is decreased by heat. 
-* Kans, an Element found in glass items. Is unaffected by other substances in all forms, and gives resistance to effects when ingested. 
 * Zangphai, an Element found in redstone items and resin. Allows substances to conduct redstone power. Gives haste when ingested. 
-* Naikya, an Element found in vexes. Allows substances to cause intangibility when ingested, and makes blocks formed of the substance intangible.
+* Nuhuwa, an Element found in vexes. Allows substances to cause intangibility when ingested, and makes blocks formed of the substance intangible.
 * Tuponi, an Element found in beds. Allows blocks made with it to be slept in--albeit not respawned in unless Jonmo is also present--and causes instant bed-like sleep when ingested.
 
 Nourishment elements that give properties when ingested:
@@ -56,16 +54,8 @@ Color elements that control a substance's color and what color effect it inflict
   <li>Ronga, an Element found in red dye.</li>
   <li>Nila, an Element in blue dye. </li>
   <li>Xeuz, an Element in green dye</li>
-  <li>Halodhiya, an Element in yellow dye. </li>
-  <li>Begunia, an Element in purple dye</li>
   <li>Kola, an Element in black dye</li>
-  <li>Gulopia, an Element in pink dye</li>
   <li>Boga, an Element in white dye</li>
-  <li>Sai, an Element in gray dye</li>
-  <li>Gerua, an Element in brown dye</li>
-  <li>Komola, an Element in orange dye</li>
-  <li>Patol, an Element in light variants of dyes</li>
-  <li>Gar, an Element in dark variants of dyes</li>
 </ul>
 
 Modificational elements:
@@ -90,11 +80,12 @@ Special elements:
   <li>If combined with Omrit, then the other entity will die if the block is broken, but be unkillable while it remains unbroken.</li>
   <li>If combined with Gyan, then the other entity will always face the block.</li>
 </ul>
-* Bhaiggyo, an Element found in rabbit's feet. Causes luck effects at high amounts when ingested, makes objects crafted with it luckier somehow...?
+* Bhaiggyo, an Element found in rabbit's feet. Causes luck effects at high amounts when ingested, makes objects crafted with it luckier somehow...? Causes bad luck with Ulta.
 * Zatro, an Element found in ender pearls, endermen, and shulkers. Allows substances to cause teleportation when ingested. Used for teleportation, and is decreased by heat. When made into containers, the containers act like shulker boxes ???
 * Tontro, an Element found in potions of weaving, cobwebs, and spiders in very low amounts. On its own, it gives the weaving effect. However, can be used in some way to force composed substances to re-combine?
 * Gyan, an Element found in all things that generate or hold XP. Gyan allows substances to give XP, and can be combined with non-special substances to make their abilities able to be triggered by the individual who possesses them. 
 * Rokha, an Element found in heart of the sea which causes Anchoring when ingested (player can do anything for five seconds and then is teleported back to their start position afterward with the same health and effects they had then) and causes a stasis field when placed as a block, which stops random ticks in a one block radius around it and stops substances increasing/decreasing when heated in adjacent vats, as well as prevents explosions.
+* Ahakali, an Element found in bad omen potions and the like. Its basic effect is to trigger a bad omen effect
 * Jyoti, a rare Element found in celestial objects like Nether Stars. ????
 * 
 
@@ -104,6 +95,12 @@ Combined substances:
 * Dolong-Prithibi: Found in obsidian and bedrock. Has the property of allowing travel to the overworld when heated.
 * Mangxo-Sorbi: Found in cooked meat. Provides extra nourishment + saturation.
 * Zatro-Gyan: Found in ender chests. Used to give ender chest properties to containers.
+* Botah-Xokti: Found in rabbit's feet and breeze-type things, gives jump boost and at high amounts can give flight
+* Botah-Bhari: Found in breeze-type mobs and items; gives wind charging when ingested and causes a substance to randomly generate wind charges when placed as a block; gives weapons made of this substance knockback and allows them to randomly cause wind charging.
+* Sphotik-Gakhir: Not found in anything natural; gives immunity to effects
+* Mitha-Bizol: Found in honey, especially honey blocks. Gives the physical properties of honey blocks and removes poison if consumed.
+* Ahakali-Jyoti: Not found in anythng natural; used to control the System of Fate.
+* Zolon-Tontro: Can be used to make a fuel for burner stands which forces all established combined substances to recombine how they were originally when the substance cools down, allowing added substances to combine independently
 
 # Elements in the world
 Most objects have some amount of each Element. Low amounts might not have effects, while high amounts might have effects--it depends on the Element in question. Elements combine hierarchically; a combination of two elements combines to form a complex element, with complex effects known as a **substances**. Elements on their own also act as substances. Some elements combine to form substances with unique new effects; others form substances which have two independent effects. Some things require more energy to combine and some require less energy to combine. This largely depends on **Essential Quality**, of which a random number are generated per world, and are named randomly; even though they are random, things which naturally occur together are hardcoded to be easier to combine than things that don't, and things which naturally occur together in items which are formed by brewing or smelting are harder to combine.
